@@ -14,7 +14,7 @@ Requires playing Tetris through the modified Nestopia libretro core available [h
 ## How to install
 
 1. Install the modified Nestopia libretro core available [here](https://github.com/rlnilsen/libretro_nestopia_tetris).
-2. Download [this](https://github.com/rlnilsen/chewie/archive/master.zip) zip file and extract the 'nestetris' folder to 'C:\nestetris\'.
+2. Download zip file from [Releases](https://github.com/rlnilsen/chewie/releases) and copy the 'nestetris' folder to 'C:\'.
 
 ## How to use
 
