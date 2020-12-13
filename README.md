@@ -1,6 +1,6 @@
 # chewie
 
-Generates a text file with data from each Tetris game played:
+Generates a text file with data from each NES Tetris game played:
 * Start date and time
 * End date and time
 * Start level
