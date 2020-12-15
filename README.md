@@ -9,15 +9,15 @@ Generates a text file with data from each NES Tetris game played:
 * Lines
 * Number of each tetrimino
 
-Requires playing Tetris through the modified Nestopia libretro core available [here](https://github.com/rlnilsen/libretro_nestopia_tetris).
+Requires playing Tetris through this [modified Nestopia libretro core](https://github.com/rlnilsen/libretro_nestopia_tetris).
 
 ## How to install
 
-1. Install the modified Nestopia libretro core available [here](https://github.com/rlnilsen/libretro_nestopia_tetris).
-2. Download zip file from [Releases](https://github.com/rlnilsen/chewie/releases) and copy the 'nestetris' folder to 'C:\'.
+1. Install this [modified Nestopia libretro core](https://github.com/rlnilsen/libretro_nestopia_tetris).
+2. Download zip file from [Releases](https://github.com/rlnilsen/chewie/releases) and copy the 'nestetris' folder to 'C:\\'.
 
 ## How to use
 
 1. Start RetroArch and play NES Tetris using the 'Nestopia Tetris' core.
-2. Run 'C:\nestetris\chewie\chewie.bat'.
-3. Read the text file newly generated in 'C:\nestetris\'.
+2. Run 'C:\\nestetris\\chewie\chewie.bat'.
+3. Read the text file newly generated in 'C:\\nestetris\\'.
